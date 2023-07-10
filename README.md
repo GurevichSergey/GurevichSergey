@@ -4,7 +4,7 @@
     Hi there, I'm Sergey
   </h1>
   <h3> Backend Java Developer</h3>
-  <a href="https://t.me/supremacy21">
+  <a href="https://t.me/gurevich7">
     <img src="https://img.shields.io/badge/Telegram-khaki?logo=telegram&logoColor=black&style=for-the-badge"/>
   </a>
   <a href="mailto:spakro1802@gmail.com ">
